@@ -1,0 +1,24 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+pytest = "*"
+pylint = "*"
+pylama = "*"
+pycodestyle = "*"
+
+[packages]
+numpy = "*"
+flask = "*"
+requests = "*"
+pymessenger = "*"
+matplotlib = "*"
+chatbotai = "*"
+wikipedia = "*"
+messengerbot = "*"
+django = "*"
+
+[requires]
+python_version = "3.8"
